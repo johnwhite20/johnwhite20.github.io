@@ -19,5 +19,5 @@ He also told me that there would have to be larger crushed stone delivered to bu
 
 Glenquicken have done this type of work for several large companies and charitable organisations, he seemed to know what he was talking about.
 
-Mike is going to prepare a quote to carry out the all work on the road including supplying the additional material needed to form the new surface. I will add this information as soon as it arrives and let you all know.
+Mike is going to prepare a quote to carry out all work on the road including supplying the additional material needed to form the new surface. I will add this information as soon as it arrives and let you all know.
 
