@@ -11,7 +11,7 @@ author: John White
 ---
 
 {: .box-success}
-Mike McCart from [Glenquicken Roadrecycling](https://glenquickenroadrecycling.co.uk/) carried out a site survey today and recommended additional work and materials be used. 
+Mike McCart from [Glenquicken Roadrecycling](https://glenquickenroadrecycling.co.uk/) carried out a site survey today and recommended additional work and materials are required. 
 
 He explained that the road base needs to be built up in order for water to run off the finished top surface. There is simply not enough material in the road to give that necessary height. Mike identified the field stone we have here as unsuitable for being crushed by the machines they use as part of the work. 
 He also told me that there would have to be larger crushed stone delivered to build up the base of the road and finer stone added to insure a sound final surface. I asked if flattening the road by scraping it with a digger could reduce the amount of stone required but he said the track is too low and to produce a good long lasting roadway it was necessary to add more material.
