@@ -1,8 +1,9 @@
 layout: post
 title: Site Survey
 subtitle: First site visit by Mike McCart
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+cover-img: /assets/img/ebtrack1.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/ebtrack1.jpg
 tags: [site survey]
 comments: true
 author: John White
