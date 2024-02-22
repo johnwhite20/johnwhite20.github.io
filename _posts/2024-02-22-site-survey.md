@@ -2,7 +2,7 @@ layout: post
 title: Site Survey
 subtitle: First site visit by Mike McCart
 cover-img: /assets/img/ebtrack1.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/track_repair_thumb.jpg
 share-img: /assets/img/ebtrack1.jpg
 tags: [site survey]
 comments: true
