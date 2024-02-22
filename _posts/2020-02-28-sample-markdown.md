@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Site Survey
+subtitle: First site visit by Mike McCart
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [site survey]
 comments: true
-author: Bill Smith
+author: John White
 ---
 
 {: .box-success}
