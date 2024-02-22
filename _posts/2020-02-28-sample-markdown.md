@@ -10,7 +10,7 @@ author: John White
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Mike McCart from Glenquicken Roadrecycling carried out a site survey today. He explained that the road base needs to be built up in order for water to run off the top surface. Mike identified the field stone we have as unsuitable for adding to the road and being crushed by the machines they use as part of the work. He also told me that there would have to be additional stone delivered to build up the base of the road and more stone added to insure a sound final surface and we would have to ensure water is allowed to flow away from the road and into the fields to prevent future damage.
 
 **Here is some bold text**
 
