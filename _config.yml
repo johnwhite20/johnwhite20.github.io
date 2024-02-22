@@ -21,10 +21,10 @@ author: John White
 
 navbar-links:
 #  About Me: "aboutme"
-  Resources:
+  Original Proposal:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+# Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
