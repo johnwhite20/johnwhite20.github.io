@@ -39,7 +39,9 @@ I received an email today from Mike McCart at [Glenquicken Roadrecycling](https:
 >[Initial Quotation dated 6th March 2024](https://johnwhite20.github.io/assets/img/initial-quote.png)
 >
 
-As you will see from the quotation that was attached and my updated spreadsheet (both available from the link in the top right) this increases the expected costs. This is a significant point in our project as the estimated costs have now more than doubled.
+As you will see from the quotation that was attached and my updated spreadsheet (both available from the link in the top right) this increases the expected costs. This more than doubles the estimated costs of the track repair but should give us a better repaired track with far greater life span than any quick repair we could do.
+
+My vote is that we go ahead with the project and that I place an order with Glenquicken to carry out the work as soon as possible. This project requires us all to agree before going ahead so I am keen to hear your views on this matter and whether you also wish to proceed.
 
 
 
