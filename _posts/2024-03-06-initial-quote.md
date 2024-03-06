@@ -3,7 +3,7 @@ layout: post
 title: Site Survey
 subtitle: Initial Quote Received
 cover-img: /assets/img/quote-thumb.png
-thumbnail-img: /assets/img/track_repair_thumb.jpg
+thumbnail-img: /assets/img/quote-thumb.png
 share-img: /assets/img/ebtrack1.jpg
 tags: [initial quote]
 comments: true
