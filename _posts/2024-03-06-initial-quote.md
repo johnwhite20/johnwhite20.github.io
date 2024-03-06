@@ -36,4 +36,4 @@ I received an email today from Mike McCart at [Glenquicken Roadrecycling](https:
 >Glenquicken Eng Ltd
 >
 
-As you will see from the quotation and the updated spreadsheet (both available from the link in the top right) this increases the expected costs significantly.
+As you will see from the quotation that was attached and my updated spreadsheet (both available from the link in the top right) this increases the expected costs. This is a significant point in our project.
