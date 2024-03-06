@@ -2,7 +2,7 @@
 layout: post
 title: Intial Quote
 subtitle: Initial Quote Received
-cover-img: /assets/img/quote-thumb.png
+cover-img: /assets/img/ebtrack1.jpg
 thumbnail-img: /assets/img/quote-thumb.png
 share-img: /assets/img/ebtrack1.jpg
 tags: [initial quote]
