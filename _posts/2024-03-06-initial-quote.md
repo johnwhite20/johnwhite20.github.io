@@ -13,7 +13,7 @@ author: John White
 {: .box-success}
 I received the quotation today to carry out the repairs to our track including the additional materials required. 
 
-I received an email today from Mike McCart at Glenquicken Road Recycling. The text is shown below:
+I received an email today from Mike McCart at [Glenquicken Roadrecycling](https://glenquickenroadrecycling.co.uk/). The text is shown below:
 
 >06/03/2024 14:09
 >
