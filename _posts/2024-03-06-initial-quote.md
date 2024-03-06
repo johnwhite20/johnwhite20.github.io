@@ -35,5 +35,11 @@ I received an email today from Mike McCart at [Glenquicken Roadrecycling](https:
 >
 >Glenquicken Eng Ltd
 >
+>Email attachment:
+>[Initial Quotation dated 6th March 2024](https://johnwhite20.github.io/assets/img/initial-quote.png)
+>
 
-As you will see from the quotation that was attached and my updated spreadsheet (both available from the link in the top right) this increases the expected costs. This is a significant point in our project.
+As you will see from the quotation that was attached and my updated spreadsheet (both available from the link in the top right) this increases the expected costs. This is a significant point in our project as the estimated costs have now more than doubled.
+
+
+
