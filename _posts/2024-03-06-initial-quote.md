@@ -22,7 +22,8 @@ Following my initial note to you all everybody spoke to me and agreed to go ahea
 >
 >Sorry for delay in getting the quote to you.
 >As I explained the road requires major repairs and would be impossible to recycle what is there as it is too far gone.
->The quote is based on todays quarry prices for material and its haulage to site if they substantially increase prices before the date of works then increase will have to be passed on I cant envisage big >increases but quarries are a law onto themselves)
+>The quote is based on todays quarry prices for material and its haulage to site if they substantially increase prices before the date of works then increase will have to be passed on
+>(I cant envisage big increases but quarries are a law onto themselves)
 >I have discounted the crusher work and added the digger work required so overall there is a saving.
 >
 >It is a big job as the road has gotten into such a bad state the work quoted will leave the road back to original and with light timely maintenance going forward will stay in good shape.
