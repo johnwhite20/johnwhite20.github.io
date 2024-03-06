@@ -11,7 +11,7 @@ author: John White
 ---
 
 {: .box-success}
-I received the quotation to carry out the repairs to our track. 
+I received the quotation today to carry out the repairs to our track including the additional materials required. 
 
 I received an email today from Mike McCart at Glenquicken Road Recycling. The text is shown below:
 
