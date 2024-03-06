@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Site Survey
+title: Intial Quote
 subtitle: Initial Quote Received
 cover-img: /assets/img/quote-thumb.png
 thumbnail-img: /assets/img/quote-thumb.png
