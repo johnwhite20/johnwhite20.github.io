@@ -13,7 +13,7 @@ author: John White
 {: .box-success}
 I placed an order with [Glenquicken Roadrecycling](https://glenquickenroadrecycling.co.uk/) to repair the track. 
 
-After giving all of us time to raise any objections to the repair plan I placed an order and today I received emailed confirmation of the order to repair the track.
+After giving all of us time to examine the repair plan and some discussions I placed an order, today I received emailed confirmation of our order to repair the track.
 
 >
 >27/03/2024 17:25
@@ -35,5 +35,5 @@ After giving all of us time to raise any objections to the repair plan I placed 
 >
 >
 
-I hope very much the work can take place fairly soon but I will communicate any updates to you as soon as I receive them.
+The track continues to deteriorate and I feel it is only a matter of time before delivery drivers and others start to refuse to use it. I hope very much the work can take place soon but I will communicate any updates to you as soon as I receive them.
 
