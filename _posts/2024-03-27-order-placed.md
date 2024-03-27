@@ -3,7 +3,7 @@ layout: post
 title: Order Placed and Confirmed
 subtitle: Order Placed
 cover-img: /assets/img/ebtrack1.jpg
-thumbnail-img: /assets/img/track_repair_thumb.jpg
+thumbnail-img: /assets/img/track_repair_thumb2.jpg
 share-img: /assets/img/ebtrack1.jpg
 tags: []
 comments: true
