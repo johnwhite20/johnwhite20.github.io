@@ -19,4 +19,4 @@ This changes the project from the repair of 302 metres of track to 329 metres. T
 
 I would suggest that the estimated pricing we have already received is satisfactory to allow the project to continue with no further need for additional estimates to be produced by Glenquicken. The costs of stone may change between now and the time it is ordered so the material prices we have are only an estimation anyway. The broader pricing structure remains the same and I intend to publish everything relevant I receive to preserve transparency between us all regarding this project. If this is not acceptable please contact me and I will ask Glenquicken to produce an updated estimate.
 
-An updated map is available here. I have informed Glenquicken of our altered requirements and also explained that we would like to be updated about the schedule for the work to start.
+[An updated map is available here](https://johnwhite20.github.io/assets/img/EB%20Track%20Layout%203.jpg) I have informed Glenquicken of our altered requirements and also explained that we would like to be updated about the schedule for the work to start.
