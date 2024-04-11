@@ -3,7 +3,7 @@ layout: post
 title: Design Updated
 subtitle: Design Updated
 cover-img: /assets/img/ebtrack1.jpg
-thumbnail-img: /assets/img/track_repair_thumb2.jpg
+thumbnail-img: /assets/img/men_at_work_thumb.jpg
 share-img: /assets/img/ebtrack1.jpg
 tags: []
 comments: true
