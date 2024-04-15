@@ -29,4 +29,4 @@ Following an email enquiring about scheduling for our driveway repair and inform
 >Mike
 >
 
-So sadly the latest news is that there is no news and Glenquicken are waiting for an improvement of the weather to ensure our job is carried out properly. I will, of course, keep you up to date with any news I receive.
+So sadly the latest news is that there is no news and Glenquicken are waiting for an improvement of the weather to ensure our job is carried out properly. I will, of course, keep you up to date with any further news I receive.
