@@ -16,7 +16,9 @@ The road repairs are planned for 28th May 2024.
 Mike McCart has just informed me by email that the work to repair our road has been scheduled for Tuesday 28th May with the machinery arriving Monday 27th May.
 
 >
->We are planning on bringing machinery to site next Monday the 27th May and commencing the work on Tuesday the 28th weather >permitting if you can advise all concerned that access to the road will be very restricted during works as we cannot keep moving >machinery  once work starts.
+>We are planning on bringing machinery to site next Monday the 27th May and commencing the work on Tuesday the 28th weather
+>permitting if you can advise all concerned that access to the road will be very restricted during works as we cannot
+>keep moving >machinery  once work starts.
 >
 >We will of course leave the road accessible overnight.
 >For safety reasons we will erect Road Closed signs at the entrance from the council road.
