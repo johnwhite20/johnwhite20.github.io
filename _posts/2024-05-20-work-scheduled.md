@@ -24,6 +24,6 @@ Mike McCart has just informed me by email that the work to repair our road has b
 >For safety reasons we will erect Road Closed signs at the entrance from the council road.
 >
 
-If anyone needs to travel on Tuesday 28th May they will need to leave a car on the other side of the works. The road to the large tower is a good size but is too narrow. Perhaps West Balscalloch Farm would allow us to park outside the newly refurbished Ivy Cottage for the day?
+If anyone needs to travel on Tuesday 28th May they will need to leave a car on the other side of the works. The road to the large tower is a good size but is too narrow. Perhaps West Balscalloch Farm would allow us to park outside the newly refurbished Ivy Cottage for the day? I will move our large parcel box to the other end of the works and label it appropriately so that any packages arriving for the effected households can be left by delivery drivers during the day.
 
 I will ensure everyone is aware of this schedule.
