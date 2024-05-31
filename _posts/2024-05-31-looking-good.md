@@ -2,9 +2,9 @@
 layout: post
 title: Work in Progress
 subtitle: Looking Good
-cover-img: /assets/img/ebtrack1.jpg
+cover-img: /assets/img/ebtrack4.jpg
 thumbnail-img: /assets/img/road_closed.jpg
-share-img: /assets/img/ebtrack1.jpg
+share-img: /assets/img/ebtrack4.jpg
 tags: []
 comments: true
 author: John White
